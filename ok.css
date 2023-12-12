@@ -13,7 +13,19 @@
     #projects {
       height: fit-content;
     }
+    .section__text__p1{
+        margin-top:172px;
   }
+    .section-container{
+        margin_top:170px;
+    }
+    #experience {
+        margin-top:250px;
+    }
+    #project{
+        margin_top:820px;
+    }
+}
   
   /* Media query for screens with a maximum width of 1200px */
   @media screen and (max-width: 1200px) {
