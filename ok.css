@@ -23,7 +23,7 @@
         margin-top:250px;
     }
     #projects{
-        margin-top:820px;
+        margin-top:640px;
     }
 }
   
@@ -120,5 +120,11 @@
       text-align: justify;
       height: auto;
     }
+     #projects{
+          margin-top:-174px;
+      }
+      #about{
+          margin-top:155px;
+      }
   }
   
